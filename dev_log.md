@@ -3,3 +3,4 @@
 2026-01-16T15:43:02 - cleaned up imports
 2026-02-27T11:15:42 - added unit test
 2025-09-05T19:55:06 - fixed typo in docs
+2025-11-08T20:45:36 - fixed typo in docs
