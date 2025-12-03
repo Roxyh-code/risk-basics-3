@@ -12,3 +12,6 @@
 
 ## 2025-11-09T21:11:17
 - updated config
+
+## 2025-12-02T19:23:32
+- cleaned up code
