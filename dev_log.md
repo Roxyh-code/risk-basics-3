@@ -21,3 +21,6 @@
 
 ## 2026-01-18T18:24:16
 - reviewed logic
+
+## 2026-01-30T10:58:12
+- updated config
