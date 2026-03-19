@@ -1,0 +1,5 @@
+Scenario Type,Event,Start Date,End Date,Duration (days),SPX % Change,VIX % Change,Initial Option Price,Scenario Option Price,Total PnL
+Extended Bear Market,Global Financial Crisis,2008-09-15,2009-03-09,175,-43.28,56.72,111.0628,0.0,-111.0628
+Extended Bear Market,Dot-com Bubble Burst,2000-03-10,2002-10-09,943,-44.32,98.35,111.0628,0.0,-111.0628
+Rapid Market Decline,COVID-19 Crash,2020-02-20,2020-03-23,32,-33.67,295.82,111.0628,1.7393,-109.3235
+Rapid Market Decline,"August 5, 2024 Shock",2024-08-02,2024-08-05,3,-3.0,64.9,111.0628,94.6681,-16.3947
